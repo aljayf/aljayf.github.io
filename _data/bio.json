@@ -2,13 +2,13 @@
   "basics": {
     "name": "Aljay Fagaragan",
     "label": "Student",
-    "picture": "https://aljayf.github.io/images/molly.png",
+    "picture": "https://aljayf.github.io/images/aljayf.jpg",
     "email": "aljayf@hawaii.edu",
     "phone": "808-469-8275",
     "website": "https://aljayf.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
-      "address": "",
+      "address": "2500 Campus Rd.",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
