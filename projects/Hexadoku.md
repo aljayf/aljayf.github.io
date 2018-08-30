@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Hexadoku.jpg
+image: images/Hxadoku.jpg
 title: Hexadecimal Sudoku
 permalink: projects/sudoku
 date: 2017-10-27
