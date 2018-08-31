@@ -51,10 +51,7 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
@@ -62,19 +59,16 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Unix"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Fall, 2019)",
+      "studyType": "B.A.",
+      "startDate": "2018-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -83,27 +77,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Foot Locker Inc.",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-04-22",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "On floor sales associate",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Communicating with customers to provide them with there needs",
+        "Working with co-workers to keep a steady enviornment"
       ]
     }
   ],
