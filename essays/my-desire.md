@@ -15,3 +15,8 @@ As I started to make a little bit of money off selling clothes I saw how other p
 In the future, I hope to develop my own website where I could sell my own product. I hope to become very skillful in web design and can different frameworks such as Flash. I first want to experience creating a basic website and work up from there. I desire to learn all the possibilities one could do in web design and to be able to make my visions real.
 
 Lastly, I hope to gain skill and experience in creating mobile applications. What inspired me to learn how to create mobile applications was my use of apps to buy and sell clothes. I saw that a lot of people in the clothing community like to use mobile applications to buy and sell their clothes. Companies such as Depop and Grailed have a wide range of users all over the world who access their mobile application rather than their website. To be able to create such a mobile application is something that I desire to develop in the future.
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/depop.png">
+  <img class="ui image" src="../images/graileIcon.jpg">
+</div>
