@@ -18,5 +18,5 @@ Lastly, I hope to gain skill and experience in creating mobile applications. Wha
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/depop.png">
-  <img class="ui image" src="../images/graileIcon.jpg">
+  <img class="ui image" src="../images/grailedIcon.jpg">
 </div>
