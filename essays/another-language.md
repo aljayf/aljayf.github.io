@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Another Language?!
+title: Another Language
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
