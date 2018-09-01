@@ -8,7 +8,7 @@ labels:
 
 ---
 <img class="ui medium right floated rounded image" src="../images/javascript.jpg">
-<h2>Noob</h2>
+<h2>Am I a Noob?</h2>
 It has been about one and a half years since I first started programming. When I first started, I had no idea how much programming languages existed. Still to this day I have no idea how many exist. So far, I've learned Java, C, and C++. I am currently learning the programming language of JavaScript and I am what people would consider a "noob" at it. I initially thought that learning a new programming language would be like learning a new human language, but in computer science that is not the case. 
 
 When I first used JavaScript in a tutorial I thought that it was like all the other programming languages I've already learned. As I followed the instructions, nothing confused me. It seemed to me that the only differences from JavaScript and the previous languages were the way variables, arrays, and objects were represented and the syntax. However, JavaScript is more like Java rather than C and C++ which is what one would assume since "java" is in both their names. From what I know so far, JavaScript is much simpler than C and C++. In JavaScript, you don't have to be as in tuned with the computer such as creating memory and accessing data in that memory location.
