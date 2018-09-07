@@ -13,3 +13,7 @@ Actually, there is no such thing as a stupid question. Howerver there does exist
 
 <h2>Examples</h2>
 <h3>"Not Smart"</h3>
+If you would look at this ["Not Smart" Example link](https://stackoverflow.com/questions/52209137/validate-a-phone-number-in-laravel), we could easily that this is a "Not Smart" question. From this question, we could tell that the user has not made the effort to solve their own problem, but rather seek to obtain answer from someone else. The user hasn't mentioned what they tried, but instead asks how to perform the task. The lack of smartness in the question also reflect in the responses. In the first respnse, a link to a manual on how to use regex was provided. The smartness of the question could also reflect on the amount of upvotes or downvotes. If your question has at least one downvote, it probably was not a smart question.
+
+<h3>"Smart Way"</h3>
+Here is a link to a ["Smart" Example](https://stackoverflow.com/questions/52037320/yarn-procedure-for-redeploying-javascript-dependencies-to-production-server-us).
