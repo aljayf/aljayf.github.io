@@ -5,7 +5,7 @@ title: Smart and Stupid Questions
 date: 2018-09-06
 labels:
 ---
-
+<img class="ui medium right floated rounded image" src="../images/smartQuestion.jpg">
 <h2>Stupid Questions?</h2>
 Has your teacher ever told you that there is no such thing as a stupid question? Well, if they did, they lied. In the software engineering community, asking such questions may result in what seems to be arrogant answers. Software engineers dislike these types of questions because it seems as if the person asking the question is only looking for a solution rather than enlightenment.
 
