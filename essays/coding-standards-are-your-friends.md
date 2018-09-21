@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards is Your Friend
+title: Coding Standards are Your Friends
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-20
 labels:
