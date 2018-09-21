@@ -19,7 +19,7 @@ let a = 1;
 let b = 2;
 a = a + b;
 ```
-This code is works fine, but ESLint with IntelliJ forced me to write the assignment statement as follows:
+This code works fine, but ESLint with IntelliJ forced me to write the assignment statement as follows:
 ```
 let a = 1;
 let b = 2;
