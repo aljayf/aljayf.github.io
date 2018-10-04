@@ -1,0 +1,12 @@
+---
+layout: essay
+type: essay
+title: Semantic UI No Pain No Gain
+# All dates must be YYYY-MM-DD format!
+date: 2018-10-04
+labels:
+  - Learning
+  - Reflection
+---
+<img class="ui medium right floated rounded image" src="../images/SemanticUI.jpeg">
+<h2>My Experience</h2>
