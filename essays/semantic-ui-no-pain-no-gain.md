@@ -8,5 +8,5 @@ labels:
   - Learning
   - Reflection
 ---
-<img class="ui medium right floated rounded image" src="../images/SemanticUI.jpeg">
+<img class="ui medium right floated rounded image" src="../images/SematicUI.jpeg">
 <h2>My Experience</h2>
