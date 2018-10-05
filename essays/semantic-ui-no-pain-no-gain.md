@@ -11,3 +11,7 @@ labels:
 ---
 <img class="ui medium right floated rounded image" src="../images/SematicUI.jpeg">
 <h2>My Experience</h2>
+UI Frameworks are not simple. When I first started using Semantic UI I stuggled. Text were not where I wanted them to be, Images were not being scaled correctly, I could never get my content centered, etc.. The amount of different classes provided was overwhelming. I did not understand fully what the Semantic UI provided classes were doing. I would make changes in my HTML file, but I would see no difference in the result. After having more practice, seeing examples, reading and using [Semantic UI Documentation](https://semantic-ui.com/), I got a better understanding and it became fairly easier.
+
+<h2>Semantic UI Benefits</h2>
+Even though using Semantic UI could be difficult, the pain and struggle of using it does provide good benefits.
