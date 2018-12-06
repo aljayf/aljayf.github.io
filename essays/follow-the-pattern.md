@@ -8,6 +8,7 @@ labels:
   - Design Patterns
 ---
 
+<img class="ui medium right floated rounded image" src="../images/software-design-pattern.jpg">
 <h2>Standard Procedure</h2>
 When given a commonly occurring problem in software design, there is usually a general solution or template to the problem know as a design pattern. The purpose of design patterns is to speed up the development process by proven development models. In order to use design patterns, one must first understand the problem in order to use the best design pattern for that problem.  It is important to understand the problem and use the best design pattern because design patterns have trade-offs. Overall, a design pattern is a template which can be used in many situations. It describes reoccurring problems and then describes the solution to that problem. 
 
