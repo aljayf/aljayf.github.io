@@ -51,7 +51,10 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Javascript",
+        "PHP",
+        "SQL"
       ]
     },
     {
@@ -59,7 +62,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Unix"
+        "Unix",
+        "Linux"
       ]
     }
   ],
@@ -70,8 +74,17 @@
       "studyType": "B.A.",
       "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.15",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 241",
+        "ICS 212",
+        "ICS 311",
+        "ICS 314",
+        "ICS 321",
+        "ICS 332"
       ]
     }
   ],
