@@ -13,10 +13,10 @@ This program allows the user to blackjack against a CPU. Prior to a game of blac
 
 In result of this project, I gained a better understanding of Object-Oriented Programming. This project played a fundamental role in my understanding of how to structure a project. I learned how to use multiple classes to build one big project and how to build off of other classes.
 
-In this project, It consisted of 3 classes. The core of the project was the card class. Then, I created a deck class which was constructed of 52 card objects. Finally, I was able to create the game class to construct how to implement the deck class to play a game of blackjack.
+This consisted of 3 classes. The core of the project was the card class. Then, I created a deck class which was constructed of 52 card objects. Finally, I was able to create the game class to construct how to implement the deck class to play a game of blackjack.
 
 <h2>Code</h2>
-Here is a berief overview on how I structure to project:
+Here is a brief overview on how I structured the project:
 <h3>Card Class</h3>
 ```
 public String name, suit;
