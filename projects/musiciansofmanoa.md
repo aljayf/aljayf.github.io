@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Hexadoku.jpg
+image: images/MoMAdmin.png
 title: Musicans of Manoa
 permalink: projects/musiciansofmanoa
 date: 2018-12-08
@@ -21,6 +21,6 @@ In result of this project, I gained experience in working in a group. At first, 
 
 <h2>The Project</h2>
 <h3>[The Website](http://musiciansofmanoa.meteorapp.com/#/)</h3>
-
+<img class="ui medium right floated rounded image" src="../images/MoMHome.png">
 <h3>[GitHub.io homepage](https://musiciansofmanoa.github.io/)</h3>
-
+<img class="ui medium right floated rounded image" src="../images/GitHome.png">
