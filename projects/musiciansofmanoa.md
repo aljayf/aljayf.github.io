@@ -20,8 +20,8 @@ My primary role in this project was to implement a super user, "admin", who is a
 In result of this project, I gained experience in working in a group. At first, there were problems with merging our codes together, but, as we got more experience, we were able to overcome the issue and have it occurs again. I learned how to work as a group and communicate. I saw the potential of working in a group to accomplish a big project. I also learned about databases and how to implement them into application. Since I implemented the admin user, I had to understand how to access multiple databases and how to manipulate them. The experience from this project gives me the confidence on using GitHub for any future project.
 
 <h2>The Project</h2>
-[The Website](http://musiciansofmanoa.meteorapp.com/#/)
+Here is a link to [the Website](http://musiciansofmanoa.meteorapp.com/#/)
 <img class="ui medium rounded image" src="../images/MoMHome.png">
 
-[GitHub.io homepage](https://musiciansofmanoa.github.io/)
+Here is a link to our [GitHub.io homepage](https://musiciansofmanoa.github.io/)
 <img class="ui medium rounded image" src="../images/GitHome.png">
