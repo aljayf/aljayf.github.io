@@ -45,4 +45,19 @@ public Deck() {
 		Card c4 = new Card("clubs", i);
 		...
 ```
+<h4>Game Class</h4>
+```
+Deck myDeck;
+int playerScore;
+int dealerScore;
+String winner;
+
+ArrayList <Card> playerHand;  // To store player's cards
+ArrayList <Card> dealerHand;  // to store dealer's cards
+
+public Game() {
+	myDeck = new Deck();  //Create a new deck
+	myDeck.shuffle(); //Shuffle the deck
+	...
+```
 
