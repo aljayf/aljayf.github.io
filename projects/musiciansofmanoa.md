@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Hexadoku.jpg
-title: Musicans 
+title: Musicans of Manoa
 permalink: projects/musiciansofmanoa
 date: 2018-12-08
 labels:
