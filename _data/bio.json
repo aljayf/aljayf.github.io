@@ -68,6 +68,10 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI",
+        "Javascript",
         "PHP",
         "SQL"
       ]
@@ -78,7 +82,10 @@
       "keywords": [
         "MacOS",
         "Unix",
-        "Linux"
+        "Linux",
+        "Intellij IDEA",
+        "Eclipse",
+        "Git/GitHub"
       ]
     }
   ],
