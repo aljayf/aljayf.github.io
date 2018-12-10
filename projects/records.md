@@ -40,21 +40,4 @@ void writefile(struct record *, char []);
 ```
 
 <h2>Sample Output</h2>
-```
-1. Add a new record in the database
-2. Print information about a record using the accountno as the key
-3. Print all information in the database
-4. Delete an existing record from the database using the accountno as the key
-5. Quit the program
-Type the corresponding number to perform the action
-1
-You have selected to add a record in the database
-Enter the account number of the record to be added
-1
-Name: John Doe
-You may now enter the address of the record.
-Enter ';' at the end to finish input
-Honolulu
-Hawaii;
-Account was successfully added
-```
+<img class="ui huge rounded image" src="../images/recordsamp.png">
