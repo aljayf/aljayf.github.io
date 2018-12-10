@@ -15,6 +15,9 @@ In result of this project, I gained a better understanding of Object-Oriented Pr
 
 This consisted of 3 classes. The core of the project was the card class. Then, I created a deck class which was constructed of 52 card objects. Finally, I was able to create the game class to construct how to implement the deck class to play a game of blackjack.
 
+<h2>Sample Game</h2>
+<img class="ui huge rounded image" src="../images/21samp.png">
+
 <h2>Code</h2>
 Here is a brief overview on how I structured the project:
 <h3>Card Class</h3>
