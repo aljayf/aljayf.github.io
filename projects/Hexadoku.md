@@ -18,7 +18,7 @@ This program was created for an ICS 211 assignment. Correctness has been proven 
 This project thought me one of the central ideas of problem solving in computer science. Using **recursion** played a major role in this project as it allowed me to use smaller instances of the bigger problem to solve the same problem.
 
 <h2>Code</h2>
-Below is how I implemented recursion to solve the big problem:
+Below is a snip of how I implemented recursion to solve the big problem:
 
 ```
 private static boolean solveSudoku(int[][] sudoku, int row, int column) {
