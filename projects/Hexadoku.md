@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/Hexadoku.jpg
 title: Hexadecimal Sudoku
 permalink: projects/sudoku
